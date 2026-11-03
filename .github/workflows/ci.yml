@@ -1,0 +1,60 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test-cm5:
+    name: Test Software CM5 (Python)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e "./software-cm5[dev]"
+
+      - name: Run Pytest with Coverage
+        run: |
+          pytest software-cm5/tests -v --cov=supervisor
+
+  build-rp2040:
+    name: Build Firmware RP2040 (C / Pico SDK)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install ARM GCC Toolchain and CMake
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gcc-arm-none-eabi libnewlib-arm-none-eabi build-essential cmake
+
+      - name: Clone Raspberry Pi Pico SDK
+        run: |
+          git clone --depth 1 --branch 2.1.1 https://github.com/raspberrypi/pico-sdk.git ${{ runner.temp }}/pico-sdk
+          cd ${{ runner.temp }}/pico-sdk
+          git submodule update --init --depth 1
+
+      - name: Configure CMake
+        run: |
+          cmake -B build -S firmware-rp2040 -DPICO_SDK_PATH=${{ runner.temp }}/pico-sdk
+
+      - name: Compile Firmware
+        run: |
+          cmake --build build -j$(nproc)
+
+      - name: Verify UF2 Artifact
+        run: |
+          test -f build/firmware_rp2040.uf2
