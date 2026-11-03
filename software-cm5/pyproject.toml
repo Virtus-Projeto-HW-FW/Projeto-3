@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "photonic-bias-supervisor"
+version = "0.1.0"
+description = "Software de supervisão e controle de BIAS para MZM/IQ em Raspberry Pi CM5"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    { name = "Equipe Projeto 3 - Fotônica" }
+]
+dependencies = [
+    "pyserial>=3.5",
+    "fastapi>=0.110.0",
+    "uvicorn>=0.28.0",
+    "pydantic>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-cov>=4.1.0",
+    "pytest-asyncio>=0.23.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "../common"]
