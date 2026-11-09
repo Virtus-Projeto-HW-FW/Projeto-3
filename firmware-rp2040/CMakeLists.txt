@@ -29,3 +29,14 @@ pico_enable_stdio_uart(firmware_rp2040 1)
 pico_enable_stdio_usb(firmware_rp2040 0)
 
 pico_add_extra_outputs(firmware_rp2040)
+
+if (PICO_NO_PICOTOOL)
+    find_package(Python3 REQUIRED COMPONENTS Interpreter)
+    add_custom_command(TARGET firmware_rp2040 POST_BUILD
+        COMMAND ${Python3_EXECUTABLE} ${CMAKE_CURRENT_SOURCE_DIR}/tools/bin2uf2.py
+                $<TARGET_FILE_DIR:firmware_rp2040>/firmware_rp2040.bin
+                $<TARGET_FILE_DIR:firmware_rp2040>/firmware_rp2040.uf2
+        COMMENT "Gerando firmware_rp2040.uf2 via script Python"
+        VERBATIM
+    )
+endif()
