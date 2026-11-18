@@ -1,0 +1,6 @@
+Modelo de referencia para documentacao: CM5R5-3dsteps.step
+Pagina: https://edatec.cn/cm/CM5
+Arquivo: https://edatec.cn/storage/zip/20250116/04dc9dd412e91ea1d85419c05e4ce479.zip
+Dimensoes e montagem conferidas com https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf
+Transformacao no relatorio: x=55-y_modulo; y=60+x_modulo; z=4+z_modulo (mm).
+

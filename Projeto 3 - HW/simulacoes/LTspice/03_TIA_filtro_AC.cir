@@ -1,0 +1,40 @@
+TIA e filtro: resposta em frequencia
+* Projeto CM5 R6, 15 V, conector de duas vias.
+* Analise de pequeno sinal em torno de 2 uA; sem parasitas de PCB ou fotodiodo.
+.include "../modelos/OPA380_TI.lib"
+.include "../modelos/OPAx197_TI.lib"
+.include "../modelos/funcionais.lib"
+.options reltol=1e-5 abstol=1e-12 vntol=1e-6 itl1=300 method=gear
+.temp 27
+V5 AVDD5 0 5
+V33 MCU_3V3 0 3.3
+VP P11 0 11
+VN N11 0 -11
+VSYS V5SYS 0 5.0714932127
+VREFA REF_ADC_RAW 0 2.5
+R400 REF_ADC_RAW REF_ADC 1u
+C400 REF_ADC 0 1u
+C401 REF_ADC 0 100n
+VREFD REF_DAC 0 2.5
+C500 PD_K TIA_OUT 100p
+C501 AVDD5 0 100n
+C502 VDARK_DIV 0 1u
+C503 AVDD5 0 100n
+C504 SK_A SK_OUT 100n
+C505 SK_B 0 47n
+C506 AVDD5 0 100n
+C507 PHOTO_ADC 0 10n
+R500 PD_K TIA_OUT 220k
+R501 REF_ADC VDARK_DIV 90.9k
+R502 VDARK_DIV 0 10.0k
+R503 TIA_OUT SK_A 10.0k
+R504 SK_A SK_B 10.0k
+R505 SK_OUT PHOTO_ADC 100
+R506 PD_RAW PD_K 10k
+XU500 VDARK PD_K AVDD5 0 TIA_OUT OPA380
+XU501 VDARK_DIV VDARK AVDD5 0 VDARK OPAx197
+XU502 SK_B SK_OUT AVDD5 0 SK_OUT OPAx197
+IPD PD_RAW 0 DC 2u AC 1u
+.ac dec 100 1 1Meg
+
+.end

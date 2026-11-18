@@ -1,0 +1,17 @@
+﻿Objeto;Rede;Camada;X1 (mil);Y1 (mil);X2 (mil);Y2 (mil);Resultado
+Trilha;REF_DAC;Bottom Layer;2167,835;2126,575;2167,835;2151,248;Objeto retirado após verificação da conectividade
+Trilha;USB_VBUS;Top Layer;2185,039;3207,874;2185,039;3231,563;Objeto retirado após verificação da conectividade
+Trilha;AVDD5;Bottom Layer;2373,346;2089,815;2373,346;2116,209;Objeto retirado após verificação da conectividade
+Trilha;DAC_CS_N;Bottom Layer;2411,22;2311,941;2411,22;2339,567;Objeto retirado após verificação da conectividade
+Trilha;+5V_SYS;GND L3;2494,173;1355,835;2545,846;1355,835;Objeto retirado após verificação da conectividade
+Trilha;+5V_SYS;Bottom Layer;2559,055;1369,043;2559,055;1406,429;Objeto retirado após verificação da conectividade
+Trilha;AVDD5;Bottom Layer;2566,024;1866,142;2566,024;1899,673;Objeto retirado após verificação da conectividade
+Trilha;RAIL_POS;Bottom Layer;3238,122;1359,842;3286,417;1359,842;Objeto retirado após verificação da conectividade
+Trilha;INV_I;Bottom Layer;3337,728;1352,953;3386,024;1352,953;Objeto retirado após verificação da conectividade
+Via;MON_PHI;Top Layer–Bottom Layer;2268,386;1276,968;;;Objeto retirado após verificação da conectividade
+Via;MCU_UART_RX;Top Layer–Bottom Layer;2433,07;2860,236;;;Objeto retirado após verificação da conectividade
+Via;RAIL_POS;Top Layer–Bottom Layer;2916,535;1415,945;;;Objeto retirado após verificação da conectividade
+Via;MON_Q;Top Layer–Bottom Layer;2947,835;1547,244;;;Objeto retirado após verificação da conectividade
+Via;MCU_RUN;Top Layer–Bottom Layer;3018,343;1558,772;;;Objeto retirado após verificação da conectividade
+Via;-11VA;Top Layer–Bottom Layer;3285,63;1454,724;;;Objeto retirado após verificação da conectividade
+Via;CM5_HEARTBEAT;Top Layer–Bottom Layer;749,606;2160,039;;;Objeto retirado após verificação da conectividade

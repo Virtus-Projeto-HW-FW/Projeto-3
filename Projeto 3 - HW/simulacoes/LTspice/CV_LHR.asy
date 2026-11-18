@@ -1,0 +1,45 @@
+Version 4
+SymbolType CELL
+LINE Normal 0 0 48 0
+LINE Normal 112 0 160 0
+LINE Normal 48 0 50 -6
+LINE Normal 50 -6 52 -11
+LINE Normal 52 -11 54 -15
+LINE Normal 54 -15 56 -16
+LINE Normal 56 -16 58 -15
+LINE Normal 58 -15 60 -11
+LINE Normal 60 -11 62 -6
+LINE Normal 62 -6 64 0
+LINE Normal 64 0 66 -6
+LINE Normal 66 -6 68 -11
+LINE Normal 68 -11 70 -15
+LINE Normal 70 -15 72 -16
+LINE Normal 72 -16 74 -15
+LINE Normal 74 -15 76 -11
+LINE Normal 76 -11 78 -6
+LINE Normal 78 -6 80 0
+LINE Normal 80 0 82 -6
+LINE Normal 82 -6 84 -11
+LINE Normal 84 -11 86 -15
+LINE Normal 86 -15 88 -16
+LINE Normal 88 -16 90 -15
+LINE Normal 90 -15 92 -11
+LINE Normal 92 -11 94 -6
+LINE Normal 94 -6 96 0
+LINE Normal 96 0 98 -6
+LINE Normal 98 -6 100 -11
+LINE Normal 100 -11 102 -15
+LINE Normal 102 -15 104 -16
+LINE Normal 104 -16 106 -15
+LINE Normal 106 -15 108 -11
+LINE Normal 108 -11 110 -6
+LINE Normal 110 -6 112 0
+WINDOW 0 80 -64 Center 2
+WINDOW 3 80 -32 Center 2
+SYMATTR Prefix L
+PIN 160 0 NONE 0
+PINATTR PinName 2
+PINATTR SpiceOrder 1
+PIN 0 0 NONE 0
+PINATTR PinName 1
+PINATTR SpiceOrder 2

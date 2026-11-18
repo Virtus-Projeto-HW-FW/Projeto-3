@@ -1,0 +1,11 @@
+* text=auto
+*.PcbDoc binary
+*.PcbLib binary
+*.SchDoc binary
+*.docx binary
+*.png binary
+*.jpg binary
+*.mp4 binary
+*.zip binary
+*.step -text
+*.stp -text

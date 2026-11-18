@@ -1,0 +1,28 @@
+Buck: estagio de potencia com PWM fixo
+* Projeto CM5 R6, 15 V, conector de duas vias.
+* Modelo didatico em malha aberta; nao e macromodelo AP64501 e nao valida compensacao R204/C208/C209, partida ou EMI.
+.include "../modelos/OPA380_TI.lib"
+.include "../modelos/OPAx197_TI.lib"
+.include "../modelos/funcionais.lib"
+.options reltol=1e-5 abstol=1e-12 vntol=1e-6 itl1=300 method=gear
+.temp 27
+VEXT VIN_P 0 15
+.param FSW=570k D=0.8*(1+118k/22.1k)/15
+VPWM PWM 0 PULSE(0 1 0 2n 2n {D/FSW} {1/FSW})
+BLOW PWM_N 0 V={1-V(PWM)}
+SHS VIN_P BUCK_SW PWM 0 HS
+SLS BUCK_SW 0 PWM_N 0 LS
+.model HS SW(Ron=0.045 Roff=1e9 Vt=0.5 Vh=0)
+.model LS SW(Ron=0.020 Roff=1e9 Vt=0.5 Vh=0)
+L200 BUCK_SW L_OUT 3.3u IC=1
+RL_DCR L_OUT V5SYS 0.015
+RESR V5SYS COUT 0.01
+C205 COUT 0 22u IC=5.071493
+C206 COUT 0 22u IC=5.071493
+C207 COUT 0 22u IC=5.071493
+R202 V5SYS BUCK_FB 118k
+R203 BUCK_FB 0 22.1k
+ILOAD V5SYS 0 PWL(0 1 1m 1 1.001m 2)
+.tran 20n 2m 0 20n uic
+
+.end

@@ -1,0 +1,23 @@
+* CM5 R6: modelos funcionais explicitamente simplificados.
+* Nao sao modelos de fabricante. Nao representam firmware, contatos mecanicos,
+* rebote, indutancia de bobina, atraso de propagacao ou ruidos de comparadores.
+.model CONTATO SW(Ron=0.1 Roff=1e12 Vt=1.65 Vh=0.02)
+.model CHAVE_LOGICA SW(Ron=0.01 Roff=1e12 Vt=0.5 Vh=0)
+.subckt CMP_OC P M OUT G
+* Saida coletor aberto: conduz quando V(P)<V(M).
+BCTL C G V={if(V(P,M)<0,1,0)}
+SOUT OUT G C G CMP_SW
+.model CMP_SW SW(Ron=20 Roff=1e12 Vt=0.5 Vh=0)
+.ends CMP_OC
+* Monoestavel funcional com transicoes suaves para estabilidade numerica.
+.subckt MONO_FUNC HB CLR Q G
+* Memoria normalizada: tau=1 s, limiar exp(-0.45) => tW nominal=0.45 s.
+* Detector RC de borda ~100 us; recarga ~10 us. Nao e modelo de fabricante.
+RDELAY HB HD 1k
+CDELAY HD G 100n
+BCHARGE G MEM I={max(1-V(MEM,G),0)*0.1*(1+tanh((V(HB,G)-2)/0.01))*(1-tanh((V(HD,G)-2)/0.01))/4}
+RDECAY MEM G 1Meg
+CMEM MEM G 1u
+BCLR MEM G I={V(MEM,G)*0.1*(1-tanh((V(CLR,G)-2)/0.01))/2}
+BQ Q G V={5*(1+tanh((V(CLR,G)-2)/0.01))*(1+tanh((V(MEM,G)-exp(-0.45))/0.0001))/4}
+.ends MONO_FUNC

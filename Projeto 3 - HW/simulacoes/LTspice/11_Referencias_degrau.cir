@@ -1,0 +1,31 @@
+Referencias: resposta dos divisores e buffers a degrau
+* Projeto CM5 R6, 15 V, conector de duas vias.
+* Referencias ideais com degraus impostos; nao valida partida, ruido ou estabilidade do ADR431 e DAC80504.
+.include "../modelos/OPA380_TI.lib"
+.include "../modelos/OPAx197_TI.lib"
+.include "../modelos/funcionais.lib"
+.options reltol=1e-5 abstol=1e-12 vntol=1e-6 itl1=300 method=gear
+.temp 27
+V5 AVDD5 0 5
+V33 MCU_3V3 0 3.3
+VP P11 0 11
+VN N11 0 -11
+VSYS V5SYS 0 5.0714932127
+VREFA REF_ADC_RAW 0 PWL(0 2.5 10m 2.5 10.01m 2.4 40m 2.4 40.01m 2.5)
+R400 REF_ADC_RAW REF_ADC 1u
+C400 REF_ADC 0 1u
+C401 REF_ADC 0 100n
+VREFD REF_DAC 0 PWL(0 2.5 10m 2.5 10.01m 2.4 40m 2.4 40.01m 2.5)
+R602 REF_DAC MID_DIV 10.0k
+R603 MID_DIV 0 10.0k
+C604 MID_DIV 0 1u
+C605 AVDD5 0 100n
+XU601 MID_DIV VMID_DAC AVDD5 0 VMID_DAC OPAx197
+R501 REF_ADC VDARK_DIV 90.9k
+R502 VDARK_DIV 0 10.0k
+C502 VDARK_DIV 0 1u
+C503 AVDD5 0 100n
+XU501 VDARK_DIV VDARK AVDD5 0 VDARK OPAx197
+.tran 20u 70m 0 20u
+
+.end

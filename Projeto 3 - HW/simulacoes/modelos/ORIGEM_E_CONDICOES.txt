@@ -1,0 +1,3 @@
+Os arquivos OPA380_TI.lib e OPAx197_TI.lib sao modelos da Texas Instruments, obtidos das paginas oficiais indicadas em documentacao/fontes_modelos.json. Os cabecalhos de autoria, versao e condicoes de uso permanecem nos arquivos. Nao sao modelos criados para este projeto. Consulte esses cabecalhos antes de redistribuir ou modificar.
+
+funcionais.lib e o subcircuito OP_FUNC do caso 14 sao modelos comportamentais didaticos, escritos para estes ensaios, e nao modelos dos fabricantes dos componentes.

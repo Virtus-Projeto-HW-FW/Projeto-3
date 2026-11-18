@@ -1,0 +1,5 @@
+J200: STEP extraidos do PCB_Source_IoT, preservados sem alteracoes de conteudo.
+O posicionamento de montagem esta incorporado no PcbDoc e na PcbLib.
+U220: envelope mecanico simplificado, construido do datasheet TMR 3.
+
+J200 na R6: pino 1 = +15 V; pino 2 = GND.

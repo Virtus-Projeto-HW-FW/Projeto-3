@@ -1,0 +1,35 @@
+Alimentacoes analogicas: regime nominal
+* Projeto CM5 R6, 15 V, conector de duas vias.
+* Reguladores e TMR funcionais; Iadj=0, sem limites de corrente, perdas internas, estabilidade, ruido ou temperatura.
+.include "../modelos/OPA380_TI.lib"
+.include "../modelos/OPAx197_TI.lib"
+.include "../modelos/funcionais.lib"
+.options reltol=1e-5 abstol=1e-12 vntol=1e-6 itl1=300 method=gear
+.temp 27
+VEXT EXT_P15 0 15
+RPATH EXT_P15 VIN_P 0.1
+* Resistencias de passagem e limitacoes seguintes sao hipoteses do modelo.
+BNEG INT_N15 0 V={-15*min(max(V(VIN_P)/9,0),1)}
+RNEG INT_N15 VIN_N 0.5
+B317 POS_INT 0 V={min(max(V(VIN_P)-2,0),max(1.25+V(ADJ_POS),0))}
+R317 POS_INT P11 0.05
+B337 NEG_INT 0 V={max(min(V(VIN_N)+2,0),min(V(ADJ_NEG)-1.25,0))}
+R337 NEG_INT N11 0.05
+B1763 LDO_INT 0 V={min(max(V(P11)-0.3,0),5)}
+R1763 LDO_INT AVDD5 0.05
+ILPOS P11 0 20m
+ILNEG 0 N11 20m
+IL5 AVDD5 0 30m
+R210 P11 ADJ_POS 120
+R211 ADJ_POS 0 931
+R212 N11 ADJ_NEG 120
+R213 ADJ_NEG 0 931
+C210 VIN_P 0 10u
+C211 P11 0 10u
+C212 VIN_N 0 10u
+C213 0 N11 10u
+C214 P11 0 10u
+C215 AVDD5 0 10u
+.dc VEXT 12 18 0.05
+
+.end

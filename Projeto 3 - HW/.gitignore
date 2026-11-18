@@ -1,0 +1,23 @@
+# Altium: arquivos locais e resultados regeneráveis
+History/
+__Previews/
+Project Logs*/
+Project Outputs*/
+*.PrjPcbStructure
+*.PcbDocPreview
+*.SchDocPreview
+*.PrjPcb.~*
+*.SchDoc.~*
+*.PcbDoc.~*
+*.bak
+*.tmp
+~$*
+# Simulações e Python
+*.raw
+*.log
+*.net
+*.plt
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
