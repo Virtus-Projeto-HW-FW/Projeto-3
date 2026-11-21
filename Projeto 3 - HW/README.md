@@ -29,6 +29,7 @@ A placa tem contorno retangular de **120 × 90 mm**, montagem nas duas faces e q
 - **Esquemáticos e BOM:** [hardware/altium](hardware/altium)
 - **Modelos STEP incorporados ao Altium:** [hardware/altium/ALTIUM_EMBEDDED_MODELS](hardware/altium/ALTIUM_EMBEDDED_MODELS)
 - **Simulações LTspice:** [simulacoes](simulacoes)
+- **Vídeo youtube:** https://youtu.be/A3gGHM6tSEQ
 
 ## Autores
 
