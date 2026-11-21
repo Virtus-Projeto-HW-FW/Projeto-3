@@ -1,0 +1,2520 @@
+﻿X (mm);Y (mm);Rede;Furo (mm);Ilha (mm);L2;L3;Máscara superior;Máscara inferior
+1,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+5,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+7,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+8,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+9,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+10,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+11,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+13,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+14,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+15,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+16,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+17,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+19,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+20,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+21,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+22,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+23,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+25,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+26,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+27,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+28,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+29,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+31,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+32,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+33,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+34,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+35,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+37,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+38,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+39,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+40,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+41,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+43,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+44,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+45,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+46,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+47,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+49,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+50,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+51,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+52,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+53,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+55,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+56,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+57,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+58,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+59,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+61,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+62,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+63,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+64,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+65,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+67,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+71,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+73,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+74,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+80,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+87,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+88,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+89,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+95,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+97,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+98,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+99,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+100,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+101,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+103,160;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+104,360;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+105,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+106,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+111,560;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+112,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+113,960;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+118,760;1,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+7,160;2,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+8,360;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+9,560;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+10,760;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+11,960;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+13,160;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+14,360;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+43,160;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+53,960;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+56,360;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+57,560;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+58,760;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+59,960;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+61,160;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+62,360;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+63,560;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;2,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+71,960;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+75,560;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+76,760;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+80,360;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+87,560;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+88,760;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+97,160;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+98,360;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+99,560;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+100,760;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+101,960;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+103,160;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+104,360;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+105,560;2,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+111,560;2,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+112,760;2,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+8,360;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+9,560;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+10,760;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+11,960;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+13,160;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+14,360;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+49,160;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+55,160;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+56,360;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+57,560;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+59,960;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+62,360;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+63,560;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+64,760;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+65,960;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+80,360;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+81,560;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+86,360;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+87,560;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+88,760;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+91,160;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+97,160;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+98,360;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+99,560;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+100,760;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+101,960;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+103,160;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+104,360;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+105,560;3,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+111,560;3,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+8,360;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+9,560;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+10,760;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+11,960;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+13,160;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+14,360;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+43,160;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+53,960;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+56,360;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+57,560;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+58,760;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+59,960;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+61,160;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+62,360;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+63,560;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+64,760;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+65,960;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+67,160;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+83,960;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+93,560;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+100,760;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+101,960;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+103,160;4,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+104,360;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+111,560;4,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+112,760;4,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+1,160;6,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+7,160;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+8,360;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+9,560;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+10,760;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+11,960;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+13,160;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+14,360;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+49,160;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+55,160;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+56,360;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+57,560;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+59,960;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+62,360;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+63,560;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+64,760;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+65,960;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;6,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+76,760;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+83,960;6,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+89,960;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+98,360;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+99,560;6,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+100,760;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+112,760;6,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;6,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+1,160;7,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;7,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+5,960;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+8,360;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+13,160;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+43,160;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+53,960;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+56,360;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+57,560;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+58,760;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+59,960;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+61,160;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+62,360;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+63,560;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+64,760;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;7,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+76,760;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+99,560;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+101,960;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+105,560;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+107,960;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+109,160;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+110,360;7,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+113,960;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+117,560;7,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+118,760;7,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;8,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+3,560;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+4,760;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+5,960;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+11,960;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+49,160;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+55,160;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+56,360;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+57,560;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+59,960;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+62,360;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+63,560;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+83,960;8,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+91,160;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+100,760;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+105,560;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+106,760;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+107,960;8,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+109,160;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;8,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;9,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+3,560;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+4,760;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+5,960;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+9,560;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+10,760;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+11,960;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+13,160;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+14,360;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+43,160;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+53,960;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+56,360;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+57,560;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+58,760;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+59,960;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+61,160;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+62,360;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+79,160;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+91,160;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+92,360;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+99,560;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+100,760;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+101,960;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+105,560;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+107,960;9,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+109,160;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;9,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;10,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+3,560;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+4,760;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+5,960;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+8,360;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+9,560;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+10,760;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+11,960;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+13,160;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+14,360;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+49,160;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+55,160;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+56,360;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+57,560;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+59,960;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+80,360;10,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+91,160;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+99,560;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+100,760;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+105,560;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+106,760;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+107,960;10,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+109,160;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+112,760;10,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+118,760;10,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;12,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+3,560;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+4,760;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+5,960;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+8,360;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+9,560;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+10,760;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+14,360;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+43,160;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+53,960;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+56,360;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+57,560;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+58,760;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+65,960;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+86,360;12,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+91,160;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+99,560;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+100,760;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+101,960;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+105,560;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;12,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+107,960;12,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+109,160;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+111,560;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+116,360;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;12,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;13,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+3,560;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+4,760;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+5,960;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+8,360;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+9,560;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+10,760;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+49,160;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+55,160;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+56,360;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+57,560;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;13,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+88,760;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+89,960;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+92,360;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+93,560;13,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+94,760;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+99,560;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+112,760;13,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+118,760;13,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;14,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+3,560;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+4,760;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+5,960;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+8,360;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;14,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+22,760;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+43,160;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+53,960;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+65,960;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+67,160;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+87,560;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+88,760;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+91,160;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+92,360;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+93,560;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+94,760;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+95,960;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+97,160;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+98,360;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+99,560;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+100,760;14,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+101,960;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+113,960;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;14,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;15,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+3,560;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+4,760;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+5,960;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+8,360;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+49,160;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+62,360;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+65,960;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+87,560;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+89,960;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+91,160;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+92,360;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+93,560;15,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+94,760;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;15,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;16,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+3,560;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+4,760;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+5,960;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+9,560;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+10,760;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+43,160;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+53,960;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+116,360;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+117,560;16,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;16,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;18,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+3,560;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+4,760;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+5,960;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+8,360;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+49,160;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+55,160;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+59,960;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+87,560;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+93,560;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+97,160;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+98,360;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+99,560;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+100,760;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+101,960;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+103,160;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+111,560;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+112,760;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+113,960;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+115,160;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+116,360;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+117,560;18,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;18,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;19,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+53,960;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+56,360;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+93,560;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+100,760;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+101,960;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+103,160;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+109,160;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+112,760;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+113,960;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+115,160;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+116,360;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+117,560;19,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;19,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;20,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+55,160;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+56,360;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+57,560;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+89,960;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+98,360;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+99,560;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+100,760;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+101,960;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+103,160;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+106,760;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+113,960;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+115,160;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+116,360;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+117,560;20,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;20,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;21,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;21,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;21,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;21,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;21,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;21,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;21,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;21,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+53,960;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;21,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+56,360;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+89,960;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+98,360;21,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+99,560;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+100,760;21,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+101,960;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+106,760;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+116,360;21,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+117,560;21,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;21,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;22,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;22,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;22,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;22,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;22,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;22,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;22,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;22,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;22,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;22,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;22,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+49,160;22,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;22,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;22,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;22,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;22,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+55,160;22,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+57,560;22,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;22,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+61,160;22,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+98,360;22,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+109,160;22,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;22,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;24,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;24,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;24,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;24,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;24,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+46,760;24,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;24,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;24,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;24,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;24,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;24,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+53,960;24,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+56,360;24,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+57,560;24,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+58,760;24,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;24,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+99,560;24,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+100,760;24,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;24,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;24,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;25,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;25,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;25,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;25,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;25,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;25,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+49,160;25,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;25,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;25,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;25,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;25,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+56,360;25,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+57,560;25,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;25,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+98,360;25,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+99,560;25,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+100,760;25,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+101,960;25,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;25,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+107,960;25,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;25,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;26,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;26,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+3,560;26,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;26,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;26,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;26,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;26,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;26,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;26,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;26,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;26,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;26,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;26,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;26,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+56,360;26,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+57,560;26,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+58,760;26,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+98,360;26,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+99,560;26,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+100,760;26,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+116,360;26,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;26,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;27,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;27,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;27,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;27,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;27,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;27,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;27,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;27,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+49,160;27,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;27,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;27,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;27,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+55,160;27,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+93,560;27,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+94,760;27,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+98,360;27,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;27,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;28,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;28,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;28,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;28,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;28,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;28,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;28,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;28,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+53,960;28,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+107,960;28,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+109,160;28,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+113,960;28,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;28,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;30,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+41,960;30,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;30,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+46,760;30,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;30,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+49,160;30,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;30,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+52,760;30,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;30,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+56,360;30,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+93,560;30,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+94,760;30,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+99,560;30,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+100,760;30,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+106,760;30,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+112,760;30,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+113,960;30,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+115,160;30,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+118,760;30,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;31,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;31,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;31,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;31,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;31,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+111,560;31,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+112,760;31,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+113,960;31,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+115,160;31,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;32,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;32,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;32,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+100,760;32,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+101,960;32,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+103,160;32,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+111,560;32,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+112,760;32,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+113,960;32,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;33,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;34,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+39,560;34,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;34,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+106,760;34,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+109,160;34,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;36,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+39,560;36,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;36,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;36,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+106,760;36,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;37,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;37,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;37,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;37,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+100,760;37,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+101,960;37,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;37,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+118,760;37,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;38,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;38,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;38,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;38,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+100,760;38,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;38,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;39,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+39,560;39,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+58,760;39,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+59,960;39,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+111,560;39,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;39,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;40,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+95,960;42,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+118,760;42,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;43,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+4,760;44,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+111,560;44,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+115,160;44,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+116,360;44,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+117,560;44,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;44,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;45,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+5,960;45,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;45,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+116,360;45,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+117,560;45,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;45,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;46,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;46,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+3,560;46,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+4,760;46,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+5,960;46,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;46,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+104,360;46,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;48,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;48,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+3,560;48,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+4,760;48,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;48,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+59,960;48,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;48,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+87,560;48,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+109,160;48,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+1,160;49,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;49,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+3,560;49,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+4,760;49,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;49,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;49,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;49,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;49,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;49,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;49,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;49,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;49,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;49,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;49,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+41,960;49,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+103,160;49,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+117,560;49,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+1,160;50,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;50,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+3,560;50,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+4,760;50,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;50,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;50,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;50,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;50,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;50,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;50,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;50,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;50,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;50,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;50,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;50,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;50,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;50,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+82,760;50,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+112,760;50,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+116,360;50,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+117,560;50,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;51,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;51,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+3,560;51,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;51,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;51,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;51,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;51,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;51,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;51,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;51,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;51,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;51,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;51,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;51,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;51,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;51,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+82,760;51,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+85,160;51,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+89,960;51,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+91,160;51,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+92,360;51,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;51,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;52,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+8,360;52,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+19,160;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+83,960;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+85,160;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+86,360;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+89,960;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+91,160;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+92,360;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+93,560;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+98,360;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+111,560;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+112,760;52,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+113,960;52,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;54,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+19,160;54,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+20,360;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;54,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+83,960;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+85,160;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+86,360;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+87,560;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+91,160;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+92,360;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+93,560;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+94,760;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+95,960;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+97,160;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+98,360;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+99,560;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+112,760;54,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+113,960;54,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+115,160;54,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+73,160;55,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;55,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+83,960;55,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+85,160;55,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+86,360;55,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+87,560;55,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+92,360;55,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+93,560;55,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+94,760;55,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+95,960;55,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+97,160;55,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+98,360;55,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+99,560;55,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+100,760;55,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;55,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+109,160;55,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+110,360;55,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+113,960;55,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+115,160;55,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;56,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;56,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+83,960;56,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+85,160;56,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+86,360;56,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+87,560;56,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+89,960;56,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+93,560;56,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+94,760;56,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+95,960;56,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+97,160;56,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+98,360;56,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+99,560;56,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+100,760;56,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+101,960;56,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+7,160;57,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;57,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+33,560;57,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;57,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;57,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;57,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;57,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;58,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;58,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;58,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;58,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;58,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;58,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;58,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;58,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;58,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;58,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;58,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;58,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;58,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;58,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;58,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;58,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;58,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;58,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;58,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;58,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+74,360;58,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+92,360;58,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+14,360;60,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+15,560;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+83,960;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+85,160;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+86,360;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+87,560;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+88,760;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+89,960;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+91,160;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+92,360;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+93,560;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+99,560;60,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+100,760;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+107,960;60,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;61,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+5,960;61,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;61,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+67,160;61,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;61,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;61,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;61,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;61,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;61,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+74,360;61,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;61,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+76,760;61,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+77,960;61,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+79,160;61,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+91,160;61,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+92,360;61,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+93,560;61,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;62,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+5,960;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+75,560;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+76,760;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+77,960;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+79,160;62,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+113,960;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;62,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;63,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+15,560;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+67,160;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+74,360;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+76,760;63,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+77,960;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+79,160;63,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+111,560;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+118,760;63,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;64,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+14,360;64,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;64,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;64,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;64,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;64,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;64,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;64,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+67,160;64,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;64,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;64,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;64,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;64,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;64,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+75,560;64,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+76,760;64,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+77,960;64,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+79,160;64,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+86,360;64,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+116,360;64,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+117,560;64,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+1,160;66,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;66,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+3,560;66,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+4,760;66,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+5,960;66,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;66,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+14,360;66,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;66,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;66,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;66,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;66,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;66,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;66,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;66,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+61,160;66,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+64,760;66,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+67,160;66,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;66,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;66,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;66,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;66,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+74,360;66,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;66,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+76,760;66,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+77,960;66,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+79,160;66,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+1,160;67,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+3,560;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+4,760;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+5,960;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+10,760;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+11,960;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+13,160;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+14,360;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+58,760;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;67,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+64,760;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+75,560;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+76,760;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+77,960;67,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+79,160;67,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;68,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+9,560;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+10,760;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+11,960;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+13,160;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+14,360;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+61,160;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+76,760;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+77,960;68,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+79,160;68,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+91,160;68,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;69,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+9,560;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+10,760;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+11,960;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+13,160;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+14,360;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+43,160;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+49,160;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;69,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+67,160;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+76,760;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+77,960;69,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+79,160;69,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;70,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+8,360;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+9,560;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+10,760;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+11,960;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+13,160;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+14,360;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+49,160;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+64,760;70,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+67,160;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+74,360;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+76,760;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+77,960;70,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+79,160;70,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+115,160;70,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;72,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+8,360;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+9,560;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+10,760;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+11,960;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+13,160;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+14,360;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+43,160;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+51,560;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;72,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+65,960;72,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+67,160;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+75,560;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+77,960;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+79,160;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;72,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+115,160;72,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;73,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+7,160;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+8,360;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+9,560;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+10,760;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+11,960;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+13,160;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+14,360;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+64,760;73,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+65,960;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+74,360;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;73,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+76,760;73,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+79,160;73,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+112,760;73,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+1,160;74,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+5,960;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+8,360;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+9,560;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+10,760;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+11,960;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+13,160;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+14,360;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+43,160;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+64,760;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+65,960;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+67,160;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+75,560;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+76,760;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+77,960;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+86,360;74,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+112,760;74,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+118,760;74,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;75,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+5,960;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+8,360;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+9,560;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+10,760;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+11,960;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+13,160;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+14,360;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+57,560;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+58,760;75,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+64,760;75,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+65,960;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+74,360;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+76,760;75,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+77,960;75,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+79,160;75,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+112,760;75,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+1,160;76,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+5,960;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+8,360;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+9,560;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+10,760;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+11,960;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+13,160;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+14,360;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+43,160;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+64,760;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+65,960;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+67,160;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+75,560;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+76,760;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+77,960;76,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+79,160;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+105,560;76,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;78,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+5,960;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+8,360;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+9,560;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+10,760;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+11,960;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+13,160;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+14,360;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+58,760;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+59,960;78,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+64,760;78,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+65,960;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+74,360;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+76,760;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+77,960;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+79,160;78,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+83,960;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+91,160;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+92,360;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+93,560;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+94,760;78,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+95,960;78,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;79,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+5,960;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+8,360;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+14,360;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+59,960;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+64,760;79,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+65,960;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+67,160;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+75,560;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+76,760;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+77,960;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+79,160;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+83,960;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+85,160;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+88,760;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+89,960;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+91,160;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+92,360;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+93,560;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+94,760;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+113,960;79,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+115,160;79,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;80,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+3,560;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+4,760;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+5,960;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+8,360;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+59,960;80,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+64,760;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+65,960;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+74,360;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+76,760;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+77,960;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+79,160;80,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+83,960;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+85,160;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+86,360;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+89,960;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+91,160;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+92,360;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+93,560;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+94,760;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+117,560;80,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;80,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;81,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+3,560;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+4,760;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+5,960;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+64,760;81,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+65,960;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+67,160;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+75,560;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+76,760;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+77,960;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+79,160;81,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+83,960;81,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+85,160;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+107,960;81,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+118,760;81,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+1,160;82,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+2,360;82,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+5,960;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+7,160;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+8,360;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+64,760;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+65,960;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+74,360;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+76,760;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+77,960;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+79,160;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+83,960;82,800;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+85,160;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+107,960;82,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+113,960;82,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+117,560;82,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+118,760;82,800;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;84,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+7,160;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+8,360;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+9,560;84,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+14,360;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+64,760;84,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+65,960;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+67,160;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+75,560;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+76,760;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+77,960;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+79,160;84,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+82,760;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+83,960;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+85,160;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+86,360;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+89,960;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+105,560;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+107,960;84,000;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+109,160;84,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+110,360;84,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+111,560;84,000;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+118,760;84,000;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+8,360;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+9,560;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+10,760;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+11,960;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+13,160;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+14,360;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+50,360;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+51,560;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+55,160;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+56,360;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+57,560;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+61,160;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+64,760;85,200;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+65,960;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+74,360;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+76,760;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+77,960;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+79,160;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+82,760;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+83,960;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+85,160;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+88,760;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+89,960;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+92,360;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+94,760;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+105,560;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+106,760;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+107,960;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+109,160;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+110,360;85,200;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+111,560;85,200;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+8,360;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+9,560;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+10,760;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+11,960;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+13,160;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+14,360;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+15,560;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+16,760;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+17,960;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+19,160;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+20,360;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+21,560;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+22,760;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+23,960;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+25,160;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+26,360;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+27,560;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+28,760;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+29,960;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+31,160;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+32,360;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+33,560;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+34,760;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+35,960;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+37,160;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+38,360;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+39,560;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+40,760;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+41,960;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+43,160;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+44,360;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+45,560;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+46,760;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+47,960;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+50,360;86,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+51,560;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+52,760;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+53,960;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+55,160;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+56,360;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+57,560;86,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+61,160;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+64,760;86,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+65,960;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+67,160;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+68,360;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+69,560;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+70,760;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+71,960;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+73,160;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+74,360;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+75,560;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+76,760;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+77,960;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+79,160;86,400;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+82,760;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+83,960;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+85,160;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+89,960;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+92,360;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+104,360;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+105,560;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+106,760;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+107,960;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+109,160;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+110,360;86,400;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+111,560;86,400;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+7,160;87,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+8,360;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+9,560;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+10,760;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+11,960;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+13,160;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+14,360;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+15,560;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+16,760;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+17,960;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+19,160;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+20,360;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+21,560;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+22,760;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+23,960;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+25,160;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+26,360;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+27,560;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+28,760;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+29,960;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+31,160;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+32,360;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+33,560;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+34,760;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+35,960;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+37,160;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+38,360;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+39,560;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+40,760;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+41,960;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+43,160;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+44,360;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+45,560;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+46,760;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+47,960;87,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+51,560;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+52,760;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+53,960;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+55,160;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+56,360;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+59,960;87,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+64,760;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+65,960;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+67,160;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+68,360;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+69,560;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+70,760;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+71,960;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+73,160;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+74,360;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+75,560;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+76,760;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+77,960;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+79,160;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+80,360;87,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+81,560;87,600;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+82,760;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+83,960;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+85,160;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+92,360;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+104,360;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+105,560;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+106,760;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+107,960;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+109,160;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+110,360;87,600;GND;0,30;0,60;Direto;Térmico, 4 braços;Coberta;Coberta
+111,560;87,600;GND;0,30;0,60;Térmico, 4 braços;Direto;Coberta;Coberta
+1,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+5,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+7,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+8,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+9,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+10,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+11,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+13,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+14,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+15,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+16,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+17,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+19,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+20,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+21,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+22,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+23,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+25,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+26,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+27,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+28,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+29,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+31,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+32,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+33,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+34,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+35,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+37,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+38,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+39,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+40,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+41,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+43,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+44,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+45,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+46,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+47,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+50,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+51,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+52,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+53,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+55,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+56,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+57,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+59,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+61,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+62,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+63,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+64,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+65,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+67,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+68,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+69,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+70,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+71,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+73,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+74,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+75,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+76,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+77,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+79,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+80,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+81,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+82,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+83,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+85,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+92,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+104,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+105,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+106,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+107,960;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+109,160;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+110,360;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+111,560;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
+118,760;88,800;GND;0,30;0,60;Direto;Direto;Coberta;Coberta
